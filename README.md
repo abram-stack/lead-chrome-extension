@@ -1,13 +1,14 @@
-# co9a446609df2474539d99006
+# Lead URL ChromeExtension
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+If you need to save some URL and put it in your notes while you are browsing using Google Chrome,
+Feel free to use this simple JS chrome extension.
 
-Head over to https://vitejs.dev/ to learn more about using vite
+Copy the url, open the extension. 
+Paste in the input field area and there you go.
+You have it in you local storage.
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
