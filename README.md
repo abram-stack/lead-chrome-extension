@@ -8,7 +8,8 @@ Copy the url, open the extension.
 Paste in the input field area and there you go.
 You have it in you local storage.
 
-
+You can also add the current open tab, by clicking save tab button.
+The current open tab URL will be added to your localStorage
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
